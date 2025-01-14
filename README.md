@@ -9,3 +9,8 @@ My data science and analytics projects
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret
    
+## Contact Me
+reach out to me at n.napa10@gmail.com
+
+## Image
+![Kuromi]([https://japanbite.com/cdn/shop/articles/kuromi--uh-huh-uh-huh-this-is-the-perfect-pose-yeah-kuromi-579863.jpg]
