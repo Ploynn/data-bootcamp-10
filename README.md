@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at n.napa10@gmail.com
 
 ## Image
-![Kuromi]([https://japanbite.com/cdn/shop/articles/kuromi--uh-huh-uh-huh-this-is-the-perfect-pose-yeah-kuromi-579863.jpg]
+![Kuromi](https://japanbite.com/cdn/shop/articles/kuromi--uh-huh-uh-huh-this-is-the-perfect-pose-yeah-kuromi-579863.jpg?v=1731238902)
